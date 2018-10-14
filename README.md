@@ -4,7 +4,7 @@
 This app is a simple flashcard app
 
 ### App Walk-though
-<img src="http://recordit.co/SMAWQ05wUc" width=200><br>
+<img src="http://g.recordit.co/SMAWQ05wUc.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
