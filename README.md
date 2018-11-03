@@ -6,7 +6,6 @@ This is an addition to last week's lab where now the user is also able to add th
 
 <img src="http://g.recordit.co/L2ye9YqyJH.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
