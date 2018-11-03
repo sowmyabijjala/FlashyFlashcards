@@ -1,6 +1,3 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
-
-## Lab 2
 
 ### App Description
 This is an addition to last week's lab where now the user is also able to add their own flashcard
@@ -24,3 +21,24 @@ This is an addition to last week's lab where now the user is also able to add th
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
+
+# FlashyFlashcards
+
+### App Description
+This app is a simple flashcard app
+
+### App Walk-though
+<img src="http://g.recordit.co/SMAWQ05wUc.gif" width=200><br>
+
+## Required
+- [X] Create New Project in Android Studio
+- [X] Add a view for the front side of the flashcard to display the question
+- [X] Add a view for the back side of the flashcard to display the answer
+- [X] Build in logic to show the answer side when the card is tapped
+- [X] Push code to GitHub
+## Optional
+- [ ] toggle the flashcard between the question side and the answer side
+- [ ] Style the question and answer side of the card to better distinguish between the two sides
+- [ ] Add selectable multiple choice answers beneath the card
+   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [ ] Further customize and style the card
